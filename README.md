@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning mysql
 - 📫 How to reach me @rhizobtc on twitter
 
-
-Practicing Git
+Practicing Git with different branches
